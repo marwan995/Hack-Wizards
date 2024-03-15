@@ -26,7 +26,10 @@ Behold the Parrot, the wise overseer of the game, adjudicating the duel of wits 
 
 ### Objective 🎯
 As the Fox, your mission is clear: encode secret messages within images using steganography, all while evading the keen eyes of the Eagle. The primary objective for the Fox is to send the secret message to the parrot, encoded through steganography, while devising a strategic game plan to outsmart the Eagle.
+<div align="center">
+   ![image](https://github.com/marwan995/Hack-Wizards/assets/90017398/2d9428ea-06f7-4ebc-99e2-d55cae92ef4c)
 
+</div>
 ### Game Mechanics ⚙️
 - Messages are woven into the fabric of images, transmitted through three channels simultaneously. The game is played in chunks (anything between 1 and 20), with each chunk containing 3 channels that concurrently carry your messages.
 - Choose wisely between Real, Empty, or elusive Fake messages to confound the Eagle's pursuit. Sending Fake messages is to impede the Eagle’s progress. However, Fake messages are not readily available to you. In order to earn them, you must solve riddles that are provided.
@@ -39,6 +42,9 @@ Unravel the mysteries of riddles to earn Fake messages, elevating your devious s
 
 ### Objective 🎯
 As the Eagle, your duty is clear: intercept Real messages and decipher the hidden truths concealed within. Your efficiency within the designated time frame contributes to the final score.
+<div align="center">
+   ![image](https://github.com/marwan995/Hack-Wizards/assets/90017398/59d0c855-e78c-4375-890b-408ab49cc648)
+</div>
 
 ### Game Mechanics ⚙️
 - Navigate the web of transmission channels, discerning Real messages from Empty and Fake decoys. Analyze footprints to uncover the path to genuine messages, avoiding penalties and pitfalls along the way.
@@ -75,7 +81,7 @@ Efficiency and accuracy in decoding Real messages determine the fate of both the
 
 ![image](https://github.com/marwan995/Hack-Wizards/assets/90017398/06cbb6eb-a82a-4837-bf8e-cda54d432c11)
 
-## Contributors
+
 <a id ="Contributors"></a>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
